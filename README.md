@@ -21,3 +21,6 @@ Training: Train the CNN model using the provided architecture and parameters on 
 Testing: Evaluate the model's performance on a separate test set to ensure its accuracy.
 
 Integration: Integrate the trained model into your application or system for real-time disease detection.
+
+# Contributing
+Contributions are welcome! If you find issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
